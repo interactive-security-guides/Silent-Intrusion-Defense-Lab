@@ -135,11 +135,6 @@ const newLearning = {
 
 - `Silent_Intrusions_Defense_Lab.html` — The complete, self-contained lab
 
-## Related Resources
-
-- **[Silent Intrusions](book-link)** — The accompanying book by [Author]
-- **[Connection Security Services](https://www.connection.com/)** — Managed security and incident response services
-
 ---
 
 **No login. No install. Starts in seconds. Works offline.**
