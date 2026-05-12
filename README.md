@@ -140,12 +140,6 @@ const newLearning = {
 - **[Silent Intrusions](book-link)** — The accompanying book by [Author]
 - **[Connection Security Services](https://www.connection.com/)** — Managed security and incident response services
 
-## Feedback & Support
-
-For bug reports, feature requests, or content questions:
-- Open an issue in this repository
-- Contact [support email / presales contact]
-
 ---
 
 **No login. No install. Starts in seconds. Works offline.**
