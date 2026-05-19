@@ -144,4 +144,4 @@ Start with the recommended scenario, or browse the catalog. Choose your role and
 ## Related Resources
 
 - **[Silent Intrusions](https://www.thriftbooks.com/w/silent-intrusions/54914342/item/83943229/?mkwid=%7cdc&pcrid=76897258815619&pkw=&pmt=be&slid=&product=83943229&plc=&pgrid=1230353765528421&ptaid=pla-4580496747872836&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping+%7c+NEW+condition+books&utm_term=&utm_content=%7cdc%7cpcrid%7c76897258815619%7cpkw%7c%7cpmt%7cbe%7cproduct%7c83943229%7cslid%7c%7cpgrid%7c1230353765528421%7cptaid%7cpla-4580496747872836%7c&msclkid=4affdbf9e3701bdef476b1fd585f877a#idiq=83943229&edition=72831245)** — The accompanying book by John Chirillo
-- **[Connection Security Services](https://www.connection.com/solutions-services/cybersecurity)** — External Link to Connection's Professional, Advisory, and Managed Security Services
+
